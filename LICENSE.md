@@ -1,4 +1,4 @@
-# 
+# quantitative Polymarket Addon | risk-management + leverage-trading is the best Polymarket addon, featuring risk-management and leverage-trading. Smart, fast, and optimized for
 
 
 
